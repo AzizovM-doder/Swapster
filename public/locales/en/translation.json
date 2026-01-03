@@ -59,13 +59,43 @@
     "3": "Bitcoin — the first digital currency, whose circulation is not regulated by any official authorities or payment systems. Bitcoin has its own public network — the blockchain. It is a kind of database that stores information about all transactions in chains. Anyone can view this information, but it cannot be changed or destroyed."
   },
   "table": {
-  "0": "Currency",
-  "1": "Minimum amount",
-  "2": "Fee",
-  "3": "Minimum withdrawal",
-  "4": "Maximum withdrawal",
-  "5": "Withdrawal fee",
-  "6": "Exchange fee",
-  "7": "AML check price"
-}
+    "0": "Currency",
+    "1": "Minimum amount",
+    "2": "Fee",
+    "3": "Minimum withdrawal",
+    "4": "Maximum withdrawal",
+    "5": "Withdrawal fee",
+    "6": "Exchange fee",
+    "7": "AML check price"
+  },
+  "main3": {
+    "0": "Get a multi-currency crypto wallet in 2 clicks",
+    "1": "To connect Swapster you only need an active Telegram account. Open the link, start the bot — exchange crypto at market rates right in Telegram.",
+    "2": "Getting started steps",
+    "3": "Set up a TG account",
+    "4": "Top up crypto",
+    "5": "Top up with BTC, ETH, BNB, USDT, USDC. In the TG bot tap “Top up”, choose currency, network, copy your wallet address.",
+    "6": "*Bank card top-ups coming soon.",
+    "7": "Crypto & fiat withdrawals",
+    "8": "In the menu tap “Send”, choose currency, blockchain, enter address and amount.",
+    "9": "Average withdrawal time:",
+    "10": "Tron (USDT TRC20): 1–3 sec;",
+    "11": "BSC (USDT BEP): 1–2 sec;",
+    "12": "ETH (USDT ERC20): 2–10 min;",
+    "13": "BTC: 5–40 min",
+    "14": "Withdraw to other wallets the same way: “Send”, currency, address, amount. Confirm — instant, receipt and tx hash provided.",
+    "15": "Below is a guide to selling crypto and cashing out to a bank card.",
+    "16": "Exchanges & transfers",
+    "17": "Swapster is a wallet and an exchange inside Telegram. Swap crypto and rubles in 2 clicks.",
+    "18": "Open “Exchange”, pick what you sell and receive, enter the amount."
+  },
+  "main4": {
+    "0": "How Swapster protects your crypto assets",
+    "1": "Swapster has a built-in reliability check. “Gray” and “black” assets are automatically stopped or returned. You can also request a manual check.",
+    "2": "AML check",
+    "3": "AML (Anti-Money Laundering) means preventing the concealment of illegal fund origins.",
+    "4": "To run a check, open the main menu, select “AML”, choose the blockchain and the paying wallet. One AML check costs 1 USDT.",
+    "5": "Crypto & AML",
+    "6": "You receive detailed results for the transaction or wallet."
+  }
 }

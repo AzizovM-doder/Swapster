@@ -1,22 +1,9 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { Button } from "../../components/ui/button";
-import phone from "../../images/phone.png";
 import phone2 from "../../images/phone2.png";
 import phone3 from "../../images/phone3.png";
-import Card1 from "../../components/card1";
-import icon1 from "../../images/icon1.png";
-import icon2 from "../../images/icon2.png";
-import icon3 from "../../images/icon3.png";
-import a1 from "../../images/a1.png";
-import a2 from "../../images/a2.png";
-import a3 from "../../images/a3.png";
 import fuh from "../../images/fuh.png";
-import j from "../../images/j.png";
-import coin from "../../images/coin.png";
 import coin2 from "../../images/coin2.png";
-import Card2 from "../../components/card2";
-import Card3 from "../../components/card3";
 import Card4 from "../../components/card4";
 import TableDemo from "../../components/tableDemo";
 

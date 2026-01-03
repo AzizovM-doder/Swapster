@@ -135,3 +135,8 @@
   border-radius: 20px;
   padding: 20px;
 }
+.a2 {
+  background-image: url("./images/bg2.png");
+  background-size: cover;
+  background-position: center;
+}
