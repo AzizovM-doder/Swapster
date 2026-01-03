@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "0": "Home",
+    "1": "Assets & Fees",
+    "2": "How It Works",
+    "3": "Crypto Checks",
+    "4": "Blog",
+    "5": "Support",
+    "6": "Join"
+  },
+  "main": {
+    "0": "Crypto wallet in your Telegram",
+    "1": "Swapster is a reliable crypto wallet and exchange that lets you store and swap crypto and withdraw fiat directly to a card — all without leaving Telegram.",
+    "2": "Launch Swapster",
+    "3": "Free transactions",
+    "4": "Swapster transactions are completely free. Send any crypto to a friend in seconds with one click — just their ID.",
+    "5": "Most important",
+    "6": "Create a crypto wallet in TG right now!",
+    "7": "Turn your TG account into a multi-currency wallet and exchange in just three clicks. Takes under 30 seconds.",
+    "8": "Launch Swapster",
+    "9": "Three simple steps",
+    "10": "Activate your Telegram account",
+    "11": "Tap “Launch” in Swapster",
+    "12": "Store, swap, and use crypto",
+    "13": "Supported assets",
+    "14": "Every day the Swapster team expands the list of supported cryptocurrencies to make things easier and more convenient. Today you can store, swap, and exchange the following assets in Swapster:",
+    "15": "App features",
+    "16": "Swapster by the numbers",
+    "17": "Launch Swapster and create all available wallets in 1 click"
+  },
+  "card": {
+    "0": "Automatic payouts to accounts of Russian banks",
+    "01": "With a TG crypto wallet, you don’t need to wait for funds like on exchanges. Payouts are instant. Save your cards for convenience and avoid re-entering numbers.",
+    "1": "Profitable crypto exchange with low fees",
+    "02": "No extra fees when converting crypto. Rates are fixed every 5 seconds and updated online.",
+    "2": "Unified USDT balance across all networks with no fees",
+    "03": "Send USDT via TRC20, ERC20, BEP20 from a single TG wallet. Received on one network? Send on another — no internal transfers needed."
+  },
+  "card2": {
+    "0": "Crypto acceptance",
+    "00": "Accept most crypto assets from any wallets with zero fees"
+  },
+  "footer": {
+    "0": "About",
+    "1": "Assets & Fees",
+    "2": "Crypto Security",
+    "3": "Articles",
+    "4": "Offers",
+    "5": "Assets",
+    "6": "Cryptocurrencies",
+    "7": "Crypto Earnings",
+    "8": "Crypto Security",
+    "9": "Crypto News"
+  },
+  "main2": {
+    "0": "Constantly Updating Blockchains and Tokens",
+    "1": "The Swapster crypto wallet supports the most popular crypto assets and networks. Their number grows and is updated every day.",
+    "2": "Blockchains and Tokens Supported by the Wallet",
+    "3": "Bitcoin — the first digital currency, whose circulation is not regulated by any official authorities or payment systems. Bitcoin has its own public network — the blockchain. It is a kind of database that stores information about all transactions in chains. Anyone can view this information, but it cannot be changed or destroyed."
+  }
+}
