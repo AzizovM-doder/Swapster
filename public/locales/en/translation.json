@@ -57,5 +57,15 @@
     "1": "The Swapster crypto wallet supports the most popular crypto assets and networks. Their number grows and is updated every day.",
     "2": "Blockchains and Tokens Supported by the Wallet",
     "3": "Bitcoin — the first digital currency, whose circulation is not regulated by any official authorities or payment systems. Bitcoin has its own public network — the blockchain. It is a kind of database that stores information about all transactions in chains. Anyone can view this information, but it cannot be changed or destroyed."
-  }
+  },
+  "table": {
+  "0": "Currency",
+  "1": "Minimum amount",
+  "2": "Fee",
+  "3": "Minimum withdrawal",
+  "4": "Maximum withdrawal",
+  "5": "Withdrawal fee",
+  "6": "Exchange fee",
+  "7": "AML check price"
+}
 }
