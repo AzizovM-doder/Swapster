@@ -120,5 +120,20 @@
     "18": "Market dips are not a problem: how to earn on crypto with minimal risk",
     "19": "As of July 3, 2022, the digital asset market shows a bearish trend. Prices have been falling for months. Trading is risky, but there are low-risk earning methods. Six of them are popular...",
     "20": "Read more"
+  },
+  "main6": {
+    "0": "Searching for BTC coins on early Bitcoin Core versions with the critical OpenSSL 0.9.8 vulnerability CVE-2008-0166",
+    "1": "If you have questions about using the Swapster wallet, check the FAQ or contact support.",
+    "2": "Go to support"
+  },
+  "main7": {
+    "0": "Bitcoin cryptocurrency (BTC)",
+    "1": "Bitcoin is the first cryptocurrency. It made transactions faster, cheaper, and more transparent. The overview covers its evolution, features, and short- and long-term investment prospects."
+  },
+  "comp3": {
+    "0": "What is DeFi staking",
+    "1": "Read more",
+    "2": "History of Bitcoin (BTC)",
+    "3": "In October 2008, the file “Bitcoin: A Peer-to-Peer Electronic Cash System” was published. This Whitepaper described the protocol and a new P2P payment system based on an equal, distributed network where each node acts as a server."
   }
 }

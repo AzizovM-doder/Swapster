@@ -35,6 +35,26 @@ const Bitcoin = () => {
         </section>
       </header>
       <main>
+        <section className="max-w-7xl m-auto p-5 py-20">
+          <h1 className="text-center text-3xl lg:text-5xl font-bold">
+            {t("comp3.2")}
+          </h1>
+          <p className="opacity-50 p-10 text-center">
+            {t("comp3.3")}
+          </p>
+          <p className="rounded-2xl border-2 p-15 border-[#07DBB4]">
+            {t("comp3.3")}
+          </p>
+          <p className="opacity-50 p-10 text-center">
+            {t("comp3.3")}
+          </p>
+          <p className="opacity-50 p-10 pt-5 text-center">
+            {t("comp3.3")}
+          </p>
+          <p className="rounded-2xl border-2 p-15 border-[#07DBB4]">
+            {t("comp3.3")}
+          </p>
+        </section>
         <section className="max-w-7xl m-auto p-5">
           <div className="a1 py-10 lg:py-20 flex flex-col items-center lg:justify-between lg:flex-row">
             <aside className="lg:max-w-1/2">

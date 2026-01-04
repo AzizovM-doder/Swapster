@@ -3,6 +3,7 @@ import Aside from "../../components/aside";
 import { useTranslation } from "react-i18next";
 import { Button } from "../../components/ui/button";
 import Comp2 from "../../components/comp2";
+import Comp3 from "../../components/comp3";
 
 const Blog = () => {
 
@@ -94,7 +95,7 @@ const Blog = () => {
               <Comp2/>
               <Comp2/>
               <Comp2/>
-              <Comp2/>
+              <Comp3/>
               <Comp2/>
               <Comp2/>
               <Comp2/>
