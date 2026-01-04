@@ -22,8 +22,8 @@ const Home = () => {
     <div>
       <header>
         <section className="max-w-7xl m-auto p-5">
-          <div className="flex flex-col items-center lg:flex-row lg:justify-between">
-            <aside className="flex flex-col items-start gap-7 lg:max-w-1/2">
+          <div  className="flex flex-col items-center lg:flex-row lg:justify-between">
+            <aside data-aos="fade-up" className="flex flex-col items-start gap-7 lg:max-w-1/2">
               <h1 className="text-4xl font-bold lg:text-6xl">{t("main.0")}</h1>
               <p className="text-lg opacity-50">{t("main.1")}</p>
               <Button className={"bg-[#42E8E0] py-5 px-10"}>
