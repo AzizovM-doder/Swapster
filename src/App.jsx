@@ -8,6 +8,9 @@ import Tarif from "./pages/tarif/tarif";
 import Nav from "./components/nav";
 import Work from "./pages/work/work";
 import Checking from "./pages/checking/checking";
+import Blog from "./pages/blog/blog";
+import Support from "./pages/support/support";
+import Bitcoin from "./pages/bitcoin/bitcoin";
 
 const App = () => {
   const router = createBrowserRouter([
@@ -31,6 +34,18 @@ const App = () => {
         {
           path : "check",
           element : <Checking />
+        },
+        {
+          path : "blog",
+          element : <Blog />
+        },
+        {
+          path : "support",
+          element : <Support />
+        },
+        {
+          path : "bitcoin",
+          element : <Bitcoin />
         }
       ],
     },

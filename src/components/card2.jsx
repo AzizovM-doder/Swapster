@@ -5,7 +5,7 @@ const Card2 = ({ svg }) => {
   const { t } = useTranslation();
 
   return (
-    <div className="flex w-full flex-col bg-[#121326] items-start p-10 gap-5 rounded-2xl">
+    <div className="hover:scale-105 flex w-full flex-col bg-[#121326] items-start p-10 gap-5 rounded-2xl">
       <div className="flex items-center w-full gap-5">
         {svg}
         <p className="text-xl font-bold text-white">{t("card2.0")}</p>
