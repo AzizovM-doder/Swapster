@@ -22,7 +22,7 @@ const Nav = () => {
     <nav className="fixed bg-gray-200 dark:bg-black z-10 top-0 left-0 right-0">
       <div className="max-w-7xl flex justify-between items-center m-auto p-5">
         <Link to={"/"}>
-          <img width={200} className="drop-shadow-lg" src={logo} alt="logo" />
+          <img width={100}  className="drop-shadow-lg w-50" src={logo} alt="logo" />
         </Link>
 
         <ul className="hidden lg:flex font-medium items-center gap-5">
