@@ -30,7 +30,7 @@ const Home = () => {
                 {t("main.2")}
               </Button>
             </aside>
-            <img width={600} src={phone} alt="" />
+            <img width={600} src={phone} />
           </div>
         </section>
       </header>

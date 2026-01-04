@@ -18,10 +18,10 @@ const Tarif = () => {
               <h1 className="text-4xl font-bold lg:text-6xl">{t("main2.0")}</h1>
               <p className="text-lg opacity-50">{t("main2.1")}</p>
             </aside>
-            <img width={600} src={coin2} alt="coin" />
+            <img width={600} src={coin2} alt="coin"/>
           </div>
         </section>
-        <img className="w-full h-10" src={fuh} alt="" />
+        <img className="w-full h-10 object-cover" src={fuh} alt="" />
       </header>
       <main>
         <section className="max-w-7xl m-auto p-5">

@@ -1,6 +1,5 @@
 import React from "react";
 import { ModeToggle } from "./mode-toggle";
-import { useTranslation } from "react-i18next";
 import logo from "../../public/images/logo.png";
 import { Button } from "./ui/button";
 import { Link, NavLink } from "react-router-dom";
@@ -10,19 +9,16 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
 } from "@/components/ui/dropdown-menu";
+import LanguageSelect from "./s";
+import { useTranslation } from "react-i18next";
 
 const Nav = () => {
-  const { t, i18n } = useTranslation();
-
-  function changeLang(lang) {
-    i18n.changeLanguage(lang);
-  }
-
+  const {t, i18n} = useTranslation()
   return (
     <nav className="fixed bg-gray-200 dark:bg-black z-10 top-0 left-0 right-0">
       <div className="max-w-7xl flex justify-between items-center m-auto p-5">
         <Link to={"/"}>
-          <img width={100}  className="drop-shadow-lg w-50" src={logo} alt="logo" />
+          <img width={120}  className="drop-shadow-lg mt-1 lg:w-50" src={logo} alt="logo" />
         </Link>
 
         <ul className="hidden lg:flex font-medium items-center gap-5">
@@ -76,13 +72,7 @@ const Nav = () => {
           </NavLink>
         </ul>
 
-        <div className="flex relative font-bold gap-1">
-          <span onClick={() => changeLang("en")}>en</span>
-          <span>|</span>
-          <span onClick={() => changeLang("ru")}>ru</span>
-          <span>|</span>
-          <span onClick={() => changeLang("tj")}>tj</span>
-        </div>
+        <LanguageSelect />
         <ModeToggle />
         <Link to={'/bitcoin'}>
           <Button className="bg-[#00000000] hidden lg:flex text-black dark:text-white py-5 px-10 border-2 border-[#07DBB4]">
