@@ -39,19 +39,19 @@ const Bitcoin = () => {
           <h1 className="text-center text-3xl lg:text-5xl font-bold">
             {t("comp3.2")}
           </h1>
-          <p className="opacity-50 p-10 text-center">
+          <p className="opacity-50 lg:p-10 text-center">
             {t("comp3.3")}
           </p>
-          <p className="rounded-2xl border-2 p-15 border-[#07DBB4]">
+          <p className="rounded-2xl border-2 lg:p-15 border-[#07DBB4]">
             {t("comp3.3")}
           </p>
-          <p className="opacity-50 p-10 text-center">
+          <p className="opacity-50 lg:p-10 text-center">
             {t("comp3.3")}
           </p>
-          <p className="opacity-50 p-10 pt-5 text-center">
+          <p className="opacity-50 lg:p-10 pt-5 text-center">
             {t("comp3.3")}
           </p>
-          <p className="rounded-2xl border-2 p-15 border-[#07DBB4]">
+          <p className="rounded-2xl border-2 lg:p-15 border-[#07DBB4]">
             {t("comp3.3")}
           </p>
         </section>
