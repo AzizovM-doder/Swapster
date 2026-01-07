@@ -15,7 +15,7 @@ import { useTranslation } from "react-i18next";
 const Nav = () => {
   const {t, i18n} = useTranslation()
   return (
-    <nav className="fixed bg-gray-200 dark:bg-black z-10 top-0 left-0 right-0">
+    <nav className="fixed backdrop-blur-lg z-10 top-0 left-0 right-0">
       <div className="max-w-7xl flex justify-between items-center m-auto p-5">
         <Link to={"/"}>
           <img width={120}  className="drop-shadow-lg mt-1 lg:w-50" src={logo} alt="logo" />
